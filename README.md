@@ -4,7 +4,7 @@
   <img align="right" top="100" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 👋 Hi, I’m Jemma Mariya George BTech ECE undergrad @jemma-mg
+- 👋 Hi, I’m Jemma Mariya George BTech ECE undergrad
 - 👀 I’m interested in UI/UX design, web development, ML, AI, IOT
 - 🌱 I’m currently learning Electronics and Communication Engineering, Programming and Data Science
 
