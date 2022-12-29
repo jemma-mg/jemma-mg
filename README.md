@@ -21,7 +21,7 @@
 </p>
 
 <!-- Trophe -->
-<p align="left"> <a href="https://github.com/jemma-mg/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jemma-mg&theme=dracula&column=7" alt="jemma" /></a> </p>
+<p align="left"> <a href="https://github.com/jemma-mg/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jemma-mg&theme=light&column=7" alt="jemma" /></a> </p>
 
 <!---
 jemma-mg/jemma-mg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
