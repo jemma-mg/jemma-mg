@@ -20,6 +20,9 @@
     </div>
 </p>
 
+<!-- Trophe -->
+<p align="left"> <a href="https://github.com/jemma-mg/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jemma-mg&theme=dracula&column=7" alt="jemma" /></a> </p>
+
 <!---
 jemma-mg/jemma-mg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
