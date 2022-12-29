@@ -20,8 +20,13 @@
     </div>
 </p>
 
+### Github Stats
 <!-- Trophe -->
-<p align="left"> <a href="https://github.com/jemma-mg/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jemma-mg&theme=light&column=7" alt="jemma" /></a> </p>
+<p align="right"> <a href="https://github.com/jemma-mg/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jemma-mg&theme=light&column=8" alt="jemma" /></a> </p>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=jemma-mg&show_icons=true&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jemma-mg&theme=algolia)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jemma-mg&langs_count=8&theme=light&layout=compact)
 
 <!---
 jemma-mg/jemma-mg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
