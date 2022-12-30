@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Electronics and Communication Engineering, Programming and Data Science
 
 <p align="center">
-  <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me 🤝 </h3>
+  <h3 align="center" > 🤝 Connect with me 🤝 </h3>
   <div align="center" class="icons-social" style="margin-left: 10px;">
       <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/jemma-mariya-george/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
@@ -20,7 +20,8 @@
     </div>
 </p>
 
-### Github Stats
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" height="40" style="margin-right: 10px; margin-bottom:-8px;"> Github Stats
+
 <!-- Trophe -->
 <p align="right"> <a href="https://github.com/jemma-mg/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jemma-mg&theme=light&column=8" alt="jemma" /></a> </p>
 
