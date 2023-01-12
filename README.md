@@ -28,14 +28,19 @@
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" height="40" style="margin-right: 10px; margin-bottom:-8px;"> Github Stats
 
+<div align="center"> 
 <!-- Trophe -->
 <p align="right" ><a href="https://github.com/jemma-mg/github-profile-trophy">
-	<img src="https://github-profile-trophy.vercel.app/?username=jemma-mg&theme=lit&column=8" alt="jemma mariya george" />
+	<img src="https://github-profile-trophy.vercel.app/?username=jemma-mg&theme=high-contrast&column=8" alt="jemma mariya george" />
 </a> </p>
+	
+<span><a href=""><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jemma-mg&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=25.8" /></a>
+<a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=jemma-mg&theme=react" /></a></span>
+</div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jemma-mg&show_icons=true&theme=dark)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jemma-mg&theme=algolia)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jemma-mg&langs_count=8&theme=light&layout=compact)
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=jemma-mg&show_icons=true&theme=dark) -->
+<!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jemma-mg&theme=algolia) -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jemma-mg&langs_count=8&theme=light&layout=compact) -->
 
 <!---
 jemma-mg/jemma-mg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
