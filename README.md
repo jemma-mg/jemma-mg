@@ -33,9 +33,9 @@
 	<img src="https://github-profile-trophy.vercel.app/?username=jemma-mg&theme=lit&column=8" alt="jemma mariya george" />
 </a> </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?user=jemma-mg&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=jemma-mg&show_icons=true&theme=dark)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jemma-mg&theme=algolia)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?user=jemma-mg&langs_count=8&theme=light&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jemma-mg&langs_count=8&theme=light&layout=compact)
 
 <!---
 jemma-mg/jemma-mg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
