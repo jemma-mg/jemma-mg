@@ -24,19 +24,23 @@
   </div>
 </p>
 
-<p align="center"><a href="https://ibb.co/Zg7Y7N2"><img  height="5" width="2000" border_radius="100" src="https://i.ibb.co/R6dBd7j/596357.jpg" alt="596357"></a></p>
+<p align="center"><a href="https://ibb.co/Zg7Y7N2"><img height="5" width="2000" border_radius="100" src="https://i.ibb.co/R6dBd7j/596357.jpg" alt="596357"></a></p>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" height="40" style="margin-right: 10px; margin-bottom:-8px;"> Github Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" height="40" style="margin-right: 10px; margin-bottom:-8px;"> Github Stats
+
 
 <div align="center"> 
 <!-- Trophe -->
-<p align="right" ><a href="https://github.com/jemma-mg/github-profile-trophy">
-	<img src="https://github-profile-trophy.vercel.app/?username=jemma-mg&theme=high-contrast&column=8" alt="jemma mariya george" />
-</a> </p>
+<p>
+<a href="https://github.com/jemma-mg/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=jemma-mg&theme=high-contrast&column=5&row=1" alt="jemma mariya george" /></a>
 	
-<span><a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jemma-mg&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&line_height=26" /></a>
-<a href=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jemma-mg&theme=react" /></a></span>
-<a href=""><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jemma-mg&langs_count=8&theme=github_dark&layout=compact" /></a></span>
+<a href=""><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jemma-mg&langs_count=8&theme=vue&layout=compact" /></a>
+</p>
+
+<a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jemma-mg&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&line_height=26" /></a>
+	
+<a href=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jemma-mg&theme=react" /></a>
 </div>
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=jemma-mg&show_icons=true&theme=dark) -->
