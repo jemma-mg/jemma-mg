@@ -36,7 +36,7 @@
 	
 <span><a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jemma-mg&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&line_height=26" /></a>
 <a href=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jemma-mg&theme=react" /></a></span>
-<a href=""><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jemma-mg&langs_count=8&theme=vue-dark&layout=compact" /></a></span>
+<a href=""><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jemma-mg&langs_count=8&theme=github_dark&layout=compact" /></a></span>
 </div>
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=jemma-mg&show_icons=true&theme=dark) -->
