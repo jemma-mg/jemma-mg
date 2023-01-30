@@ -3,7 +3,7 @@
 </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="100" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="100" height="320" width="450" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 # 👋 Hi, I’m Jemma Mariya George 
@@ -22,7 +22,7 @@
 	    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
       </a>
   </div>
-  <h5 align="center"><i>Thank You, for connecting :smiley:</i></h5>
+  <h4 align="center"><i>Thank You, for connecting :smiley:</i></h4>
 </p>
 
 <p align="center"><a href="https://ibb.co/Zg7Y7N2"><img height="5" width="2000" border_radius="100" src="https://i.ibb.co/R6dBd7j/596357.jpg" alt="596357"></a></p>
