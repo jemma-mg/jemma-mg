@@ -3,7 +3,7 @@
 </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="100" height="320" width="450" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="200" height="320" width="450" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 # 👋 Hi, I’m Jemma Mariya George 
