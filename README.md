@@ -2,7 +2,7 @@
 	<img src="https://komarev.com/ghpvc/?username=jemma-mg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile_view_counter"/>
 </p>
 
-<a target="_blank" align="center">
+<a target="_blank" align="center" style="">
   <img align="right" height="260" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
@@ -56,7 +56,7 @@
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jemma-mg&langs_count=8&theme=light&layout=compact) -->
 
 ## ✏️ My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,py,figma,ai,react,vue,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,py,figma,ai,react,vue,flask,linkedin)](https://skillicons.dev)
 
 <!---
 jemma-mg/jemma-mg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
