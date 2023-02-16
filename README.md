@@ -56,7 +56,7 @@
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jemma-mg&langs_count=8&theme=light&layout=compact) -->
 
 ## ✏️ My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,py,figma,ai,react,vue,flask,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,py,figma,ai,react,vue,flask,git,linkedin)](https://skillicons.dev)
 
 <!---
 jemma-mg/jemma-mg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
