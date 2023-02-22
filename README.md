@@ -45,8 +45,10 @@
 
 <a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jemma-mg&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&line_height=26" /></a>
 	
-<a href=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jemma-mg&theme=react" /></a>
-</div>
+<!-- <a href=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jemma-mg&theme=react" /></a>
+</div> -->
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jemma-mg)](https://git.io/streak-stats)
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jemma-mg&theme=react&line=30a14e&point=40c463&area_color=216e39&area=true&radius=10)
 
