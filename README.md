@@ -8,7 +8,7 @@
 
 # 👋 Hi, I’m Jemma Mariya George 
 
-- ✨ BTech Electronics and Communication Engineering Student at Govt.Model Engineering College, Thrikkakara, Kochi, Kerala, India
+- ✨ B.Tech Electronics and Communication Engineering Student at Govt.Model Engineering College, Thrikkakara, Kochi, Kerala, India
 - 👀 <i>I’m interested in UI/UX Design, Web Development, ML, AI, IOT and ROS </i>
 - 🌱 <i> I’m currently learning DL, ROS, Programming and Data Science </i>
 
