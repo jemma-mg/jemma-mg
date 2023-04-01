@@ -22,7 +22,7 @@
 	    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
       </a>
   </div>
-  <h4 align="center"><i>Thank You, for connecting :smiley: </i></h4>
+  <h4 align="center"><i>:smiley: Thank You, for connecting :smiley: </i></h4>
 </p>
 
 <p align="center"><a href="https://ibb.co/Zg7Y7N2"><img height="5" width="2000" border_radius="100" src="https://i.ibb.co/R6dBd7j/596357.jpg" alt="596357"></a></p>
