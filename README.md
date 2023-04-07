@@ -1,6 +1,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=jemma-mg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile_view_counter"/>
 </p>
+
 <a target="blank" align="center" >
   <img align="right" height="260" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
@@ -30,7 +31,7 @@
 <div align="center"> 
 <!-- Trophe -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=jemma-mg&theme=high-contrast&column=5&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
-	
+
 <p>
 <a href="https://github.com/jemma-mg/github-profile-trophy">
 <!--   <img align="center" src="https://github-profile-trophy.vercel.app/?username=jemma-mg&theme=high-contrast&column=5&row=1" alt="jemma mariya george" /></a> -->
