@@ -2,9 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=jemma-mg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile_view_counter"/>
 </p>
 
-<a target="blank" align="center" >
+<!-- <a target="blank" align="center" >
   <img align="right" height="260" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+</a> -->
 
 # 👋 Hi, I’m Jemma Mariya George 
 - ✨ 3rd year B.Tech Electronics and Communication Engineering Student at Govt. Model Engineering College, Thrikkakara, Kochi, Kerala, India.
