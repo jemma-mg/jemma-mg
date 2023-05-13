@@ -52,6 +52,7 @@
 <!-- ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jemma-mg&&show_icons=true&theme=dark) -->
 <!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jemma-mg&theme=algolia) -->
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jemma-mg&langs_count=8&theme=light&layout=compact) -->
+	
 ## ✏️ My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,py,figma,ai,react,vue,flask,github,git,linkedin)](https://skillicons.dev)
 <!---
