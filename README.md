@@ -34,7 +34,7 @@
 <p>
 <a href="https://github.com/jemma-mg/github-profile-trophy">
 <!--   <img align="center" src="https://github-profile-trophy.vercel.app/?username=jemma-mg&theme=high-contrast&column=5&row=1" alt="jemma mariya george" /></a> -->
-	<img align="center" src="https://github-profile-trophy.vercel.app/?username=jemma-mg&column=5&row=1" alt="jemma mariya george" /></a>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=jemma-mg&column=5&row=1" alt="jemma mariya george" /></a>
 	
 <a href=""><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jemma-mg&langs_count=8&theme=vue&layout=compact" /></a>
 </p>
