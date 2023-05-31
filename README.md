@@ -23,7 +23,6 @@
   </div>
   <h5 align="center"><i>:smiley: Thank You, for connecting :smiley: </i></h5>
 </p>
-
 <p align="left"><a href="https://ibb.co/Zg7Y7N2"><img height="20" width="1000" src="https://i.ibb.co/R6dBd7j/596357.jpg" alt="596357"></a></p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" height="40" style="margin-right: 10px; margin-bottom:-8px;"> Github Stats
