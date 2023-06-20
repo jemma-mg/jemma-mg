@@ -45,7 +45,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jemma-mg)](https://git.io/streak-stats)
 	
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jemma-mg&theme=react&line=30a14e&point=40c463&area_color=216e39&area=true&radius=10)
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jemma-mg&theme=react&line=30a14e&point=40c463&area_color=216e39&area=true&radius=10)
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=jemma-mg&show_icons=true&theme=dark) -->
 <!-- ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jemma-mg&&show_icons=true&theme=dark) -->
