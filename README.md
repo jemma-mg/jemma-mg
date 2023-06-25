@@ -3,6 +3,13 @@
 </p>
 
 <p align="center">
+  <h2 align="center">Jemma Mariya George</h2>
+  <p align="center">3rd year B.Tech Electronics and Communication Engineering Student</p>
+  <p align="center">Interested in UI/UX Design, Web Dev, ML, AI, IoT, and Embedded Systems</p>
+  <p align="center">Currently learning Programming and Data Science</p>
+</p>
+
+<p align="center">
   <h3 align="center">Connect with Jemma Mariya George:</h3>
   <div align="center" class="social-icons">
     <a target="_blank" href="https://www.linkedin.com/in/jemma-mariya-george/">
@@ -12,7 +19,7 @@
       <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub Profile">
     </a>
   </div>
-  <h5 align="center"><i>:smiley: Thank you for connecting! :smiley:</i></h5>
+  <h5 align="center"><i>Thank you for connecting!</i></h5>
 </p>
 
 <p align="left">
@@ -24,6 +31,7 @@
 ## GitHub Stats and Activities
 
 <div align="center">
+  <h3>GitHub Profile Summary</h3>
   <a href="https://github.com/jemma-mg/github-profile-trophy">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=jemma-mg&column=5&row=1" alt="GitHub Trophies">
   </a>
@@ -40,9 +48,10 @@
 </div>
 
 ## Skills and Expertise
-[![Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,py,figma,ai,react,flask,github,git,linkedin)](https://skillicons.dev)
 
-<!---
-jemma-mg/jemma-mg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <h3>Skills and Expertise</h3>
+  <a href="https://skillicons.dev/icons?i=js,html,css,bootstrap,c,py,figma,ai,react,flask,github,git,linkedin">
+    <img align="center" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,c,py,figma,ai,react,flask,github,git,linkedin" alt="Skills and Expertise">
+  </a>
+</div>
