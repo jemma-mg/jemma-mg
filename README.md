@@ -9,6 +9,7 @@
   <p align="center">Currently learning Programming and Data Science</p>
 </p>
 
+---
 <p align="center">
   <h3 align="center">Connect with Jemma Mariya George:</h3>
   <p align="center">
