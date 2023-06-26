@@ -11,14 +11,11 @@
 
 <p align="center">
   <h3 align="center">Connect with Jemma Mariya George:</h3>
-  <div align="center" class="social-icons">
-    <a target="_blank" href="https://www.linkedin.com/in/jemma-mariya-george/">
-      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn Profile">
-    </a>
-    <a target="_blank" href="https://github.com/jemma-mg">
-      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub Profile">
-    </a>
-  </div>
+  <p align="center">
+  <a href="https://linkedin.com/in/jemma-mariya-george" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jemma-mariya-george" height="30" width="40" /></a>
+  <a href="https://twitter.com/jemma_m_g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jemma_m_g" height="30" width="40" /></a>
+  <a href="https://github.com/jemma-mg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="jemma-mg" height="30" width="40" /></a>
+  </p>
   <h5 align="center"><i>Thank you for connecting!</i></h5>
 </p>
 
