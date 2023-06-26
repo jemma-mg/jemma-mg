@@ -39,7 +39,7 @@
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jemma-mg&langs_count=8&theme=vue&layout=compact" alt="Most Used Languages">
   </a>
   <a href="">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jemma-mg&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&line_height=26" alt="GitHub Stats">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jemma-mg&show_icons=true&include_all_commits=true&count_private=true&theme=vue&line_height=26" alt="GitHub Stats">
   </a>
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=jemma-mg)](https://git.io/streak-stats)
