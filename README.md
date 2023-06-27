@@ -9,7 +9,12 @@
   <p align="center">Currently learning Programming and Data Science</p>
 </p>
 
----
+<p align="left">
+  <a href="https://ibb.co/Zg7Y7N2">
+    <img height="10" width="1000" src="https://i.ibb.co/R6dBd7j/596357.jpg" alt="Landscape Image">
+  </a>
+</p>
+
 <p align="center">
   <h3 align="center">Connect with Jemma Mariya George:</h3>
   <p align="center">
@@ -18,12 +23,6 @@
   <a href="https://github.com/jemma-mg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="jemma-mg" height="30" width="40" /></a>
   </p>
   <h5 align="center"><i>Thank you for connecting!</i></h5>
-</p>
-
-<p align="left">
-  <a href="https://ibb.co/Zg7Y7N2">
-    <img height="10" width="1000" src="https://i.ibb.co/R6dBd7j/596357.jpg" alt="Landscape Image">
-  </a>
 </p>
 
 ## GitHub Stats and Activities
