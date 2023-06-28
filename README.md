@@ -2,21 +2,26 @@
   <img src="https://komarev.com/ghpvc/?username=jemma-mg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
+<a target="blank" align="center" >
+<!--   <img align="right" height="260" width="350" alt="GIF" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif"> -->
+  <img align="right" width="350" alt="GIF" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
+</a>
+
 <p align="center">
   <h2 align="center">Jemma Mariya George</h2>
-  <p align="center">3rd year B.Tech Electronics and Communication Engineering Student</p>
+  <p align="center"> 3rd year B.Tech Electronics and Communication Engineering Student</p>
   <p align="center">Interested in UI/UX Design, Web Dev, ML, AI, IoT, and Embedded Systems</p>
   <p align="center">Currently learning Programming and Data Science</p>
 </p>
 
-<p align="left">
+<p align="right">
   <a href="https://ibb.co/Zg7Y7N2">
-    <img height="10" width="1000" src="https://i.ibb.co/R6dBd7j/596357.jpg" alt="Landscape Image">
+    <img height="20" width="1000" src="https://i.ibb.co/R6dBd7j/596357.jpg" alt="Landscape Image">
   </a>
 </p>
 
 <p align="center">
-  <h3 align="center">Connect with Jemma Mariya George:</h3>
+  <h4 align="center">Connect with Jemma Mariya George:</h4>
   <p align="center">
   <a href="https://linkedin.com/in/jemma-mariya-george" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jemma-mariya-george" height="30" width="40" /></a>
   <a href="https://twitter.com/jemma_m_g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jemma_m_g" height="30" width="40" /></a>
