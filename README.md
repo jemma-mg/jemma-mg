@@ -59,3 +59,4 @@
     <img align="center" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,c,py,figma,ai,react,flask,github,git,linkedin" alt="Skills and Expertise">
   </a>
 </div>
+
