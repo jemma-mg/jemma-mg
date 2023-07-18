@@ -25,8 +25,8 @@
 <p align="center">
   <h4 align="center">Connect with Jemma Mariya George:</h4>
   <p align="center">
-  <a href="https://linkedin.com/in/jemma-mariya-george" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jemma-mariya-george" height="30" width="40" /></a>
-  <a href="https://twitter.com/jemma_m_g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jemma_m_g" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/jemma-mariya-george" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Jemma Mariya George_LinkedIn: jemma-mariya-george" height="30" width="40" /></a>
+  <a href="https://twitter.com/jemma_m_g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Jemma Mariya George_GitHub: jemma_m_g" height="30" width="40" /></a>
   <a href="https://github.com/jemma-mg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="jemma-mg" height="30" width="40" /></a>
   </p>
   <h5 align="center"><i>Thank you for connecting!!!</i></h5>
