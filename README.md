@@ -48,6 +48,7 @@
 </div>
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=jemma-mg)](https://git.io/streak-stats)
+  
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jemma-mg&theme=react&line=30a14e&point=40c463&area_color=216e39&area=true&radius=10)
 
 ## Skills and Expertise
