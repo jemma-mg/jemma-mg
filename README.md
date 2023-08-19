@@ -6,6 +6,7 @@
 <!--   <img align="right" height="260" width="350" alt="GIF" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif"> -->
   <img align="right" width="350" 
     alt="GIF" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
+  
 </a>
 
 <p align="center">
