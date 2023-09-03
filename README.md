@@ -1,7 +1,6 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=jemma-mg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
-
 <a target="blank" align="center" >
 <!--   <img align="right" height="260" width="360" alt="GIF" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif"> -->
   <img align="right" width="350" alt="GIF" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
