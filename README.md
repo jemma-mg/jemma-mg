@@ -12,6 +12,7 @@
   <p align="center"> Fourth year B.Tech Electronics and Communication Engineering Student </p>
   <p align="center"> Interested in UI/UX Design, Web Dev, ML, AI, IoT, and Embedded Systems </p>
   <p align="center"> Currently learning Programming and Data Science...</p>  
+  
   <p align="center"><img height=150px src="https://media.giphy.com/media/5GhLbhs7deKnSaFwGC/giphy.gif"/></p>
 </p>
 
