@@ -23,6 +23,7 @@
 
 <p align="center">
   <h4 align="center">Connect with Jemma Mariya George:</h4>
+  
   <p align="center">
   <a href="https://linkedin.com/in/jemma-mariya-george" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Jemma Mariya George_LinkedIn: jemma-mariya-george" height="30" width="40" /></a>
   <a href="https://twitter.com/jemma_m_g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Jemma Mariya George_GitHub: jemma_m_g" height="30" width="40" /></a>
