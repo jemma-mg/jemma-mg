@@ -6,6 +6,7 @@
 <!--   <img align="right" height="260" width="360" alt="GIF" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif"> -->
   <img align="right" width="350" alt="GIF" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
 </a>
+
 <p align="center">
   <h2 align="center"> I'm Jemma Mariya George </h2>
   <p align="center"> Fourth year B.Tech Electronics and Communication Engineering Student </p>
