@@ -8,7 +8,7 @@
 </a>
 
 <p align="center">
-  <h2 align="center"> I'm Jemma Mariya George </h2>
+  <h2 align="center"> I'm Jemma Mariya George</h2>
   <p align="center"> Fourth year B.Tech Electronics and Communication Engineering Student </p>
   <p align="center"> Interested in UI/UX Design, Web Dev, ML, AI, IoT, and Embedded Systems </p>
   <p align="center"> Currently learning Programming and Data Science </p> 
