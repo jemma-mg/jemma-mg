@@ -1,6 +1,6 @@
 # Hello, I am Jemma Mariya George &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; <a href="https://linkedin.com/in/jemma-mariya-george" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Jemma Mariya George_LinkedIn: jemma-mariya-george" height="30" width="40" /></a><a href="https://github.com/jemma-mg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="jemma-mg" height="30" width="40" /></a>
 
-<a target="blank"><img align="right" width="350" alt="GIF" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif"></a>
+<a target="blank"><img align="right" width="200" alt="GIF" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif"></a>
 
 <p align="center">
   <p align="left"><b> BTech ECE, MEC'24 | BS Data Science and Applications, IITM'24 </b></p>
@@ -39,7 +39,7 @@
 
 ##  👩‍💻 Skills and Progrmming Languages 
 
-<div align="center">
+<div align="center"><br/>
   <a href="https://skillicons.dev/icons?i=js,html,css,bootstrap,c,py,figma,ai,react,flask,github,git,linkedin">
     <img align="center" src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,kubernetes,redhat,openshift,terraform,azure,gcp,py,c,go,arduino,octave,java,figma,html,css,tailwind,js,codepen,bootstrap,npm,react,netlify,vercel,flask,django,sqlite,opencv,sklearn,tensorflow,vscode,windows,linux,ubuntu,bash,regex,md" alt="Skills and Expertise">
   </a>
