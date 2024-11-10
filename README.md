@@ -2,7 +2,9 @@
 
 <div align="right"><a target="blank"><img align="right" width="250" alt="GIF" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif"></a></div>
 
-👋 Hello! I’m Jemma,  a curious and creative developer who loves transforming ideas into interactive applications. I love exploring new languages, frameworks, and methodologies, always seeking fresh ways to enhance my skill set and bring innovative solutions to life. When I'm not coding, you might find me designing, sketching, or dreaming up new project ideas.<br>🎓 Recently completed a data science certification<br>🌱 Always excited to learn something new<br>🧩 Interests: AI, machine learning, microservices, cloud computing, data analysis , UI/UX design, VLSI & Embedded Systems
+👋 Hello! I’m Jemma,  a curious and creative developer who loves transforming ideas into interactive applications. I love exploring new languages, frameworks, and methodologies, always seeking fresh ways to enhance my skill set and bring innovative solutions to life. When I'm not coding, you might find me designing, sketching, or dreaming up new project ideas.
+
+🎓 Recently completed a data science certification<br>🌱 Always excited to learn something new<br>🧩 Interests: AI, machine learning, microservices, cloud computing, data analysis , UI/UX design, VLSI & Embedded Systems
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jemma-mariya-george) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@jemma-mg) [![GitHub](https://img.shields.io/badge/GitHub-000003?logo=github&logoColor=white)](https://github.com/jemma-mg)
