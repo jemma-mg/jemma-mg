@@ -7,6 +7,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jemma-mariya-george) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@jemma-mg) [![GitHub](https://img.shields.io/badge/GitHub-000003?logo=github&logoColor=white)](https://github.com/jemma-mg)
 
+[![](https://visitcount.itsvg.in/api?id=jemma-mg&icon=2&color=11)](https://visitcount.itsvg.in)
+
 # 💻 Tech Stack:
 
 <!--- <div align="center"><br/>
@@ -18,21 +20,20 @@
 
 # 📊 GitHub Stats: 
 
-<div><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jemma-mg&show_icons=true&include_all_commits=true&count_private=true&theme=vue&line_height=26" alt="GitHub Stats"></div>
-![](https://github-readme-stats.vercel.app/api?username=jemma-mg&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<div><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jemma-mg&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&line_height=26" alt="GitHub Stats"></div>
+
+<!--- <div> ![](https://github-readme-stats.vercel.app/api?username=jemma-mg&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/> </div> ---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jemma-mg&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jemma-mg&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jemma-mg&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jemma-mg&limit=5&theme=holi&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=jemma-mg&icon=2&color=11)](https://visitcount.itsvg.in)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
