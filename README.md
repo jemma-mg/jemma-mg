@@ -6,7 +6,7 @@
 
 🎓 Completed BS in Data Science and Applications<br>
 🌱 Always excited to learn something new<br>
-🧩 Interests: AI, machine learning, microservices, cloud computing, data analysis , UI/UX design, VLSI & Embedded Systems
+🧩 Interests: Data Analysis, Machine Learning, AI, Cloud Computing, UI/UX design, Web Development, VLSI & Embedded Systems
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jemma-mariya-george) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@jemma-mg) [![GitHub](https://img.shields.io/badge/GitHub-000003?logo=github&logoColor=white)](https://github.com/jemma-mg)
