@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<div align="right"><a target="blank"><img align="right" width="250" alt="GIF" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif"></a></div>
+<div align="right"><a target="blank"><img align="right" width="270" alt="GIF" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif"></a></div>
 
 👋 Hello! I’m Jemma, a curious and creative developer who loves transforming ideas into interactive applications. I love exploring new languages, frameworks, and methodologies, always seeking fresh ways to enhance my skill set and bring innovative solutions to life. When I'm not coding, you might find me designing, sketching, or dreaming up new project ideas.
 
