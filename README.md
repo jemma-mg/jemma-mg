@@ -31,7 +31,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jemma-mg&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jemma-mg&theme=transparent&no-frame=true&no-bg=true&margin-w=4&row=3)
+![](https://github-profile-trophy.vercel.app/?username=jemma-mg&theme=transparent&no-frame=true&no-bg=true&margin-w=4&column=3&row=2)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jemma-mg&limit=5&theme=holi&combine_all_yearly_contributions=true)
